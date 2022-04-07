@@ -1,4 +1,4 @@
-//Write a program in C++ to add two numbers accept through keyboard.//
+//Write a program in C++ to add two numbers .//
 #include<iostream>
 using namespace std;
 int main()
@@ -8,7 +8,7 @@ int main()
     cin >>a >>b;
 
     sum = a + b;
-    cout <<"Sum of the numbers;" << sum <<endl;
+    cout <<"Sum of the numbers: " << sum <<endl;
     return 0;
 }
 
